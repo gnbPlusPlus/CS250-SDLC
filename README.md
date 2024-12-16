@@ -1,10 +1,11 @@
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 -
-
-test
+First, I gather user needs by performing thoughtful data collection. This might be through observation, interviews, surveys, or whatever else is appropriate for the context. Then, I interpret the information I've gathered by thinking about it as individual user stories, which are succinct use cases that the different users of a system perform. Putting the client's requests into use cases makes it easy to think about the program from their perspective. For example, if a user story reads, "As a student, I want to receive notifications about my grades so that I can stay informed about my progress," then it helps the developer think about the pieces needed in code to make that request happen.
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 -
+I approach developing programs by planning first, typically with pseudocode or UML diagrams. Just like with user stories, these two methods keep development focused on the bigger picture. If I make an activity diagram with processes and decisions, I know those translate to input/output, functions, and/or conditional statements, and it's easier to stay on track with a visual guide. I hope to incorporate the idea of making work that's "just barely good enough" with the goal of refactoring it later, as this kind of work is good for combatting my perfectionism.
 
 What does it mean to be a good team member in software development?
 -
+Being a good team member in software development means being transparent, committed, and respectful. Transparency lends itself well to team productivity because, if everyone knows what everyone else is working on, there's less wasted duplication of efforts. This also makes collaboration easier! Commitment is required for any development structure, not just Agile, to succeed. An apathetic or off-schedule team member can have a cascading effect on the entire team's productivity. Finally, respect is valuable because being a team member is a very interpersonal role. It erodes trust when one member is repeatedly condescending, rude, or dishonest towards their teammates, and this may also decrease the likelihood of the teammates' transparency and commitment toward said team member. Respect means speaking to teammates thoughtfully, honestly, and with tact so as to hold space for them.
