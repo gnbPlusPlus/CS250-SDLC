@@ -4,7 +4,7 @@ First, I gather user needs by performing thoughtful data collection. This might 
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 -
-I approach developing programs by planning first, typically with pseudocode or UML diagrams. Just like with user stories, these two methods keep development focused on the bigger picture. If I make an activity diagram with processes and decisions, I know those translate to input/output, functions, and/or conditional statements, and it's easier to stay on track with a visual guide. I hope to incorporate the idea of making work that's "just barely good enough" with the goal of refactoring it later, as this kind of work is good for combatting my perfectionism.
+I approach developing programs by planning first, typically with pseudocode or UML diagrams. Just like with user stories, these two methods keep development focused on the bigger picture. If I make an activity diagram with processes and decisions, then I know those translate to input/output, functions, and/or conditional statements, and it's easier to stay on track with that kind of visual guide. I hope to incorporate the idea of making work that's "just barely good enough" with the goal of refactoring it later, as this kind of approach is good for combatting my perfectionism.
 
 What does it mean to be a good team member in software development?
 -
