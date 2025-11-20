@@ -1,3 +1,5 @@
+<img src="/scrum-agile-ppt.PNG">
+
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 -
 First, I gather user needs by performing thoughtful data collection. This might be through observation, interviews, surveys, or whatever else is appropriate for the context. Then, I interpret the information I've gathered by thinking about it as individual user stories, which are succinct use cases that the different users of a system perform. Putting the client's requests into use cases makes it easy to think about the program from their perspective. For example, if a user story reads, "As a student, I want to receive notifications about my grades so that I can stay informed about my progress," then it helps the developer think about the pieces needed in code to make that request happen.
